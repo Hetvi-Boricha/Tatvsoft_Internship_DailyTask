@@ -1,0 +1,36 @@
+<!-- <app-header></app-header>
+<app-header></app-header>
+<app-header></app-header>
+
+<button type="button" class="btn btn-primary">Primary</button> -->
+
+<!-- {{title}}
+<button type="button" class="btn btn-primary" (click)="listner()">Primary</button>-->
+
+<!-- <button type="button" class="btn btn-secondary" (click)="listner()">Toggle</button>
+<p *ngIf="visibility">Welcome Back {{name}}</p>
+
+<ul>
+    <li *ngFor="let item of list">
+      {{item}}
+    </li>
+</ul>
+
+<button type="button" class="btn btn-secondary" (click)="listner()">Toggle</button>
+<input type="text" [(ngModel)]="store">
+
+<router-outlet></router-outlet> -->
+
+
+  <h1 class="text-center mb-4">{{title}}</h1>
+  <form class="row g-3 align-items-center">
+    <div class="col-sm-7">
+      <label for="exampleInputEmail1" class="form-label">User Name</label>
+      <input type="text" class="form-control"   [(ngModel)]="username" id="exampleInputEmail1"   name="username" >
+    </div>
+    <div class="col-sm-7">
+      <label for="exampleInputPassword1" class="form-label">Password</label>
+      <input type="password" class="form-control"  [(ngModel)]="pass" id="exampleInputPassword1" name="pass" >
+    </div>
+    <button type="submit" class="btn btn-primary col-sm-7" (click)="loginCheck()">Login</button>
+  </form>
