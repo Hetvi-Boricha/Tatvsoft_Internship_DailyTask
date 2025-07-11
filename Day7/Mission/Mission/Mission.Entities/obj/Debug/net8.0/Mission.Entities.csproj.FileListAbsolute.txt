@@ -1,0 +1,12 @@
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+D:\Study Material\InternshipTatvsoft\Day7\Mission\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll

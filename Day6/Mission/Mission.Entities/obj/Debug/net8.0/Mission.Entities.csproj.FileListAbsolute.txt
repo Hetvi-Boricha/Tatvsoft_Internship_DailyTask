@@ -1,0 +1,50 @@
+F:\Tatvasoft_Internship\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+F:\Tatvasoft_Internship\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+F:\Tatvasoft_Internship\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+F:\Tatvasoft_Internship\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+F:\Tatvasoft_Internship\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tatvasoft_Internship\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+F:\Tatvasoft_Internship\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+F:\Tatvasoft_Internship\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+F:\Tatvasoft_Internship\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+F:\Tatvasoft_Internship\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+F:\Tatvasoft_Internship\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+F:\Tatvasoft_Internship\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.sourcelink.json
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day5\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.sourcelink.json
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+F:\Tatvasoft_Internship\Tatvasoft_Internship_DailyTask\day6\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+D:\Study Material\InternshipTatvsoft\Mission\Mission\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
